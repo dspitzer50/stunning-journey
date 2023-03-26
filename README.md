@@ -1,2 +1,2 @@
 # stunning-journey
-GitHub Training
+GitHub Training by Gill
